@@ -15,7 +15,9 @@
 				"GitHub.copilot",
 				"GitHub.vscode-pull-request-github",
 				"GitHub.copilot-chat",
-				"eamodio.gitlens"
+				"eamodio.gitlens",
+				"ms-python.python",
+				"ms-toolsai.jupyter"
 			]
 		}
 	}
